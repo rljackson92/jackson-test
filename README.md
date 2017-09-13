@@ -1,3 +1,12 @@
-# jackson-test
+# Homework 0 
 
-My name is Richard Jackson, I am an Info Sci major. I have a background in Computer Science and Engineering. I hope to learn some web devolopment tools so I can apply it to work after school.
+	
+    
+	Hello, My name is Richard Jackson and I am a senior, majoring in Information Science. I am from Virginia, and I enjoy collecting and listening to music. I chose to take this class to learn more about web development. I hope to use the information I learn to help with my future career in IT after graduation.
+
+
+![Picture](https://raw.githubusercontent.com/rljackson92/jackson-test/master/RichJ.jpg)
+
+
+
+
